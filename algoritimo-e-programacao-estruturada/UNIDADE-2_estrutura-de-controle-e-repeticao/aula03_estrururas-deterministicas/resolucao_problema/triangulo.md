@@ -1,0 +1,6 @@
+# Ponto de Partida
+Olá! Até aqui você já estudou as estruturas de repetição while e do-while! Vamos continuar neste mesmo tema, porém, você será apresentado à estrutura de repetição for.
+
+Você é desenvolvedor de software em uma instituição de ensino e foi designado para criar um programa que possa ajudar os alunos a visualizar conceitos matemáticos de forma interativa. A instituição está empenhada em aprimorar o ensino de geometria e quer fornecer aos alunos uma ferramenta prática para entender a construção de formas geométricas simples, como triângulos, no contexto do aprendizado de programação. O objetivo é criar um programa em C que permita aos alunos inserir o número de linhas desejado e exibir um triângulo na tela do computador, fornecendo uma representação visual imediata dos conceitos discutidos em sala de aula. Isso não apenas tornará o processo de aprendizagem mais envolvente e prático, mas também ajudará os alunos a compreender melhor os fundamentos da geometria por meio da programação.
+
+O triângulo deve ser desenhado na tela da seguinte forma:
