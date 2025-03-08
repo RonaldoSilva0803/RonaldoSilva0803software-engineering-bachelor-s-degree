@@ -1,0 +1,3 @@
+# Vamos Exercitar?
+
+Prezado estudante, é hora de aplicar todo o conhecimento adquirido até aqui! Para resolver a situação, será necessário implementar um programa em C que solicite ao usuário que insira o CPF no formato "NNN.NNN.NNN-NN" e, em seguida, elimine os pontos e os traços para criar um CPF sem formatação. Dessa forma, o sistema poderá processar e armazenar os CPFs de forma padronizada, facilitando a indexação e busca. Ainda, você poderá usar vetores com laços de repetições para eliminar os pontos e traço, além do comando continue dentro da estrutura de repetição.
